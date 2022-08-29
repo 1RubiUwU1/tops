@@ -30,11 +30,11 @@ Moves = {
 
 ----// [Settings]   \\--
 _G.ResetLowKi = true -- Respawns You If You're Low On Ki
-_G.AutoWish = true -- Will Automatically Wish
-_G.Wish = "Zenni" -- What To Wish For ("Zenni", "Exp", "Level Cap")
+_G.AutoWish = false -- Will Automatically Wish
+_G.Wish = "tpodo" -- What To Wish For ("Zenni", "Exp", "Level Cap")
 _G.PunchLowKi = true -- Use For Solo Only
 _G.Earth = false --  Uses Queue Or Earth Pad (Teleports To Those Worlds If In Autoexec)
-_G.WaitTime = 0  -- Time Until Script Is Executed (reccomended 3 for afk farm)
+_G.WaitTime = 3  -- Time Until Script Is Executed (reccomended 3 for afk farm)
 _G.RejoinTime = 1000 -- Time Until Going Back To Queue
 _G.BeanSpam = true -- Spams Beans/Jars
 
